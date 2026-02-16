@@ -42,8 +42,7 @@ El repositorio está organizado de la siguiente manera para facilitar su manteni
 
 * `index.html` - Página principal de la plataforma.
 * `/css` - Archivos de estilos y personalización visual.
-* `/js` - Scripts de interactividad y validaciones.
-* `/assets` - Recursos multimedia (imágenes, logos e iconos).
+* `/imagenes` - Recursos multimedia (imágenes, logos e iconos).
 
 ---
 
