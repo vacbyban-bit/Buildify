@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1300' height='500' viewBox='0 0 1300 500'>
+  <defs><linearGradient id='g1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2D264B'/><stop offset='100%' stop-color='#4a3f7a'/></linearGradient></defs>
+  <rect fill='url(#g1)' width='1300' height='500'/>
+  <text x='650' y='220' text-anchor='middle' fill='white' font-family='Inter,sans-serif' font-size='48' font-weight='800'>Desarrollo Web</text>
+  <text x='650' y='280' text-anchor='middle' fill='rgba(255,255,255,0.7)' font-family='Inter,sans-serif' font-size='20'>Sitios web a medida con tecnologías modernas</text>
+</svg>
